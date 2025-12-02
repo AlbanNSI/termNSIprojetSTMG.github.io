@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Carousel</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="" />
+  </head>
+  <body>
+    <header>
+      <img src=".tumo/lib/images/logo_tumo.png" />
+      <h1>Carousel</h1>
+      <img src=".tumo/lib/images/logo_campus.png" />
+    </header>
+    <main class="body-content">
+      <div class="body-left">
+      </div>
+    </main>
+  </body>
+</html>
